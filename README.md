@@ -6,7 +6,7 @@ Flappy bird style game made with the Kaplay library and Tauri. It features a bas
 
 Supports multiple inputs (Mouse, Keyboard and Gamepad)
 
-Download for Windows here : [https://jslegend.itch.io/kriby](https://jslegend.itch.io/kriby](https://dikshith2433k.itch.io/cubey3)
+Download for Windows here : [https://dikshith2433k.itch.io/cubey3)
 
 ## How to run?
 
