@@ -6,9 +6,7 @@ Flappy bird style game made with the Kaplay library and Tauri. It features a bas
 
 Supports multiple inputs (Mouse, Keyboard and Gamepad)
 
-Download for Windows here : [https://jslegend.itch.io/kriby](https://jslegend.itch.io/kriby)
-
-Tutorial on how to build this : [https://www.youtube.com/watch?v=mbljv1EkrRQ](https://www.youtube.com/watch?v=mbljv1EkrRQ)
+Download for Windows here : [https://jslegend.itch.io/kriby](https://jslegend.itch.io/kriby](https://dikshith2433k.itch.io/cubey3)
 
 ## How to run?
 
@@ -31,7 +29,7 @@ _Note : It's important to distribute the installer and not the .exe available in
 For this project, I opted to use Tauri instead of Electron for a few reasons :
 
 - Easier to setup than Electron. (You can use Tauri's JS api so no need to learn or use Rust)
-- Final executable for the game is lightweight (In this case 6 MB). Electron produces bloated executables.
+- Final executable for the game is lightweight (In this case 1.5 MB). Electron produces bloated executables.
 - By packaging a Chrome browser, Electron can guarantee that the app will render the same way across platforms. This is not the case with Tauri since it uses the Webview of the platform the app is running on. Since the expectation for games is that they run on Windows, this drawback of Tauri doesn't affect this project.
 
 Learn more about Tauri : [https://tauri.app/](https://tauri.app/)
@@ -39,7 +37,5 @@ Learn more about Tauri : [https://tauri.app/](https://tauri.app/)
 ## Why Kaplay?
 
 Kaplay is a very high-level library for making games. It allows you to make games really fast. I use it because it's very productive.
-
-It was previously called Kaboom. I have plenty of tutorials on my YouTube channel : https://www.youtube.com/@jslegenddev
 
 Learn more about Kaplay : [https://kaplayjs.com/](https://kaplayjs.com/)
